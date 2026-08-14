@@ -10,11 +10,17 @@ Welcome to my academic portfolio. This repository documents my independent journ
 ## 🗂 Portfolio Contents
 *(As I complete my notes in LaTeX, the compiled PDF guides will be linked below)*
 
-* **Chapter 1: Introduction to Set Theory & Mathematical Induction**
-  * *Coming Soon: Analysis of the Ordered Field Axioms*
-* **Chapter 2: The Concepts of Integral Calculus**
-  * *Coming Soon: The Axiom of Continuity and Step Functions*
+### 📐 Part 1: The Concept of Area as a Set Function
+Apostol builds calculus by treating area axiomatically. Instead of just giving formulas, he defines area as a function that assigns a number to a specific set of points in a plane.
+
+* **Exposition 1.1: The Postulates of Area**
+  * *Status: In Progress*
+  * A deep dive into the four core axioms: Monotonicity, Additivity, Invariance under congruence, and the Unit Square baseline.
+* **Exposition 1.2: Step Functions and Piecewise Constant Approximations**
+  * *Status: Upcoming*
+  * Breaking down how step functions form the rigorous geometric scaffolding for integrals.
 
 ---
-*Created by a high school student*
+*Created by a high school student learning pure mathematics as a hobby*
+
 
