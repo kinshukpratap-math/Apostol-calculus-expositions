@@ -15,7 +15,7 @@ Apostol builds calculus by treating area axiomatically. Instead of just giving f
 
 * **Exposition 1.1: The Postulates of Area**
   * *Status: In Progress*
-  * A deep dive into the four core axioms: Monotonicity, Additivity, Invariance under congruence, and the Unit Square baseline.
+  * A deep dive into area axioms.
 * **Exposition 1.2: Step Functions and Piecewise Constant Approximations**
   * *Status: Upcoming*
   * Breaking down how step functions form the rigorous geometric scaffolding for integrals.
