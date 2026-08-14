@@ -1,4 +1,4 @@
-# Expositions in Rigorous Calculus & Mathematical Mentorship
+# Expositions in Rigorous Calculus
 
 Welcome to my academic portfolio. This repository documents my independent journey through **Tom Apostol's *Calculus* (Volume 1)**, focusing on proof-based real analysis, historical mathematical contexts, and the development of intuitive educational materials.
 
