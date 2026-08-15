@@ -1,6 +1,6 @@
 # Expositions in Rigorous Calculus
 
-Welcome to my academic portfolio. This repository documents my independent journey through **Tom Apostol's *Calculus* (Volume 1)**, focusing on proof-based real analysis, historical mathematical contexts, and the development of intuitive educational materials.
+Welcome to my academic portfolio. This repository documents my independent journey through **Tom Apostol's *Calculus* (Volume 1)**, focusing on proof-based calculus, historical mathematical contexts, and the development of intuitive educational materials.
 
 ## 📌 Core Objectives
 * **Rigour:** Translating dense, axiomatic proofs into structurally sound, verifiable logic.
